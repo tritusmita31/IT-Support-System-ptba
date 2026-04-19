@@ -14,7 +14,7 @@ AI_PC_SUPPORT_BG_URL = "https://cdn.pixabay.com/photo/2021/08/04/13/06/software-
 # UI CONFIG
 # =========================
 st.set_page_config(
-    page_title="Open Ticket - PC Support",
+    page_title="Open Ticket - IT Support",
     page_icon="🖥️",
     layout="wide"
 )
