@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+python-dateutil
+pytz
+tzdata
+matplotlib
+scikit-learn
+plotly
+openpyxl
